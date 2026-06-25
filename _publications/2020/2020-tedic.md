@@ -1,9 +1,9 @@
 ---
 title:          "TEDIC: Neural Modeling of Behavioral Patterns in Dynamic Social Interaction Networks"
-date:           2020-04-20
+date:           2021-04-19
 selected:       true
 pub:            "The Web Conference (WWW)"
-pub_date:       "2020"
+pub_date:       "2021"
 abstract: >-
   TEDIC learns representations on dynamic social interaction networks by diffusing node attributes
   over a network and its complement and applying temporal convolutions, outperforming prior methods

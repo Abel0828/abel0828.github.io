@@ -10,7 +10,14 @@
       "Bash(echo \"gh version: $\\(gh --version 2>&1)",
       "Bash(set -e)",
       "Bash(sips -Z 600 legacy/yanbang/images/gray2.png --out assets/images/photos/portrait.png)",
-      "Bash(sips -g pixelWidth -g pixelHeight assets/images/photos/portrait.png)"
+      "Bash(sips -g pixelWidth -g pixelHeight assets/images/photos/portrait.png)",
+      "Read(//Users/ywangdr/.config/**)",
+      "Bash(gh auth *)",
+      "Bash(python -)",
+      "Bash(python -m pip install --quiet pypdf)",
+      "Bash(pkill -f \"jekyll serve\")",
+      "Bash(git add *)",
+      "Bash(git commit -q -m ' *)"
     ]
   }
 }

@@ -1,5 +1,5 @@
 ---
-title:          "A Unified Framework for Reducing False Positives in Authentication Alerts in Security Systems"
+title:          "A Graph-based Framework for Reducing False Positives in Authentication Alerts in Security Systems"
 date:           2023-04-30
 selected:       true
 pub:            "The Web Conference (WWW)"

@@ -12,6 +12,7 @@ cover:          /assets/images/covers/distance_encoding.png
 authors:
 - Pan Li
 - Yanbang Wang
+- Hongwei Wang
 - Jure Leskovec
 links:
   Paper: https://arxiv.org/abs/2009.00142

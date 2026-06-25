@@ -1,0 +1,23 @@
+---
+title:          "Gemini-SQL2: Model, Harness, and System Design"
+date:           2026-06-01
+selected:       true
+pub:            "Preprint (under review)"
+pub_date:       "2026"
+abstract: >-
+  Gemini-SQL2 is a state-of-the-art coding LLM for text-to-SQL, built with a co-designed model,
+  evaluation harness, and serving system. It currently ranks #1 on the BIRD leaderboard
+  (Single Model track).
+authors:
+- Yanbang Wang
+- Qitian Wu
+- Sami Abu-el-Haija
+- Mohammadreza Pourreza
+- Michael Galkin
+- Hadi Hemmati
+- Hailong Li
+- Yeounoh Chung
+- Fatma Ozcan
+- Bryan Perozzi
+- Vahab Mirrokni
+---
