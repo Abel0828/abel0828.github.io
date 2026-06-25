@@ -8,9 +8,8 @@ positions:
 - name: Student Researcher, Google Research
 
 email: "ywangdr@cs.cornell.edu"
-cv_link: /assets/files/CV_Yanbang_Wang.pdf
+cv_link: /assets/files/CV_YanbangWang_R.pdf
 gscholar: "https://scholar.google.com/citations?user=Ch3YUgsAAAAJ&hl=en"
-github: Abel0828
 twitter: yanbang_wang
 linkedin: yanbang-wang-aa593713a
 
@@ -47,7 +46,7 @@ short_bio: >-
   </p>
   <p>My name is pronounced &ldquo;Yen-bahng Wong&rdquo;.</p>
 
-portrait_url: /assets/images/photos/portrait.jpg
+portrait_url: /assets/images/photos/portrait.png
 
 education:
 - name: Cornell University

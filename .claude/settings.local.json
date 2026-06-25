@@ -4,7 +4,13 @@
       "WebFetch(domain:hejiecui.com)",
       "Bash(bundle install *)",
       "Bash(bundle exec *)",
-      "mcp__Claude_Preview__preview_start"
+      "mcp__Claude_Preview__preview_start",
+      "Bash(brew install *)",
+      "Bash(gh --version)",
+      "Bash(echo \"gh version: $\\(gh --version 2>&1)",
+      "Bash(set -e)",
+      "Bash(sips -Z 600 legacy/yanbang/images/gray2.png --out assets/images/photos/portrait.png)",
+      "Bash(sips -g pixelWidth -g pixelHeight assets/images/photos/portrait.png)"
     ]
   }
 }
