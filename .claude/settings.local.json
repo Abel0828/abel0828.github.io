@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:hejiecui.com)",
+      "Bash(bundle install *)",
+      "Bash(bundle exec *)",
+      "mcp__Claude_Preview__preview_start"
+    ]
+  }
+}
