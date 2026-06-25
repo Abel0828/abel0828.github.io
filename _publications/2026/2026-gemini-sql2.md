@@ -21,7 +21,7 @@ authors:
 - Bryan Perozzi
 - Vahab Mirrokni
 links:
-  Announcement: https://www.linkedin.com/posts/googleresearch_introducing-gemini-sql2-our-breakthrough-activity-7471241516003356672
-  Post: https://www.linkedin.com/posts/vahab-mirrokni-49774112_proud-of-our-team-and-collaborators-from-share-7471254706095480832-Jvr8/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACH0NF0B7z6RlPd1JQRG84YdKRJPSR-jmLo
+  Announcement: https://www.linkedin.com/posts/googleresearch_introducing-gemini-sql2-our-breakthrough-activity-7471241516003356672-wxOZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAACH0NF0B7z6RlPd1JQRG84YdKRJPSR-jmLo
+  "VP's repost": https://www.linkedin.com/posts/vahab-mirrokni-49774112_proud-of-our-team-and-collaborators-from-share-7471254706095480832-Jvr8/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACH0NF0B7z6RlPd1JQRG84YdKRJPSR-jmLo
   Leaderboard: https://bird-bench.github.io/
 ---

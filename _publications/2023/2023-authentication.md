@@ -2,7 +2,7 @@
 title:          "A Graph-based Framework for Reducing False Positives in Authentication Alerts in Security Systems"
 date:           2023-04-30
 selected:       true
-pub:            "The Web Conference (WWW)"
+pub:            "The Web Conference (<strong>WebConf</strong>)"
 pub_date:       "2023"
 abstract: >-
   We address the high false-positive rate of authentication alerts with a framework based on

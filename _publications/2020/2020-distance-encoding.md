@@ -2,7 +2,7 @@
 title:          "Distance Encoding: Design Provably More Powerful Neural Networks for Graph Representation Learning"
 date:           2020-12-06
 selected:       true
-pub:            "Neural Information Processing Systems (NeurIPS)"
+pub:            "Neural Information Processing Systems (<strong>NeurIPS</strong>)"
 pub_date:       "2020"
 abstract: >-
   Distance Encoding (DE) is a general class of structure-related features that provably gives GNNs

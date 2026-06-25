@@ -2,7 +2,7 @@
 title:          "From Graphs to Hypergraphs: Hypergraph Projection and its Reconstruction"
 date:           2024-05-07
 selected:       true
-pub:            "International Conference on Learning Representations (ICLR)"
+pub:            "International Conference on Learning Representations (<strong>ICLR</strong>)"
 pub_date:       "2024"
 abstract: >-
   We study the consequences of representing higher-order systems as graphs rather than hypergraphs,

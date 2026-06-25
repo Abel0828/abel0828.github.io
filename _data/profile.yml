@@ -5,7 +5,7 @@ navbar_name: "Yanbang Wang"
 positions:
 - name: Ph.D. Candidate, Computer Science, Cornell University
 - name: IvyPlus Visiting Scholar, Stanford University
-- name: Student Researcher, Google Research
+- name: Research Intern, Google Research
 
 email: "ywangdr@cs.cornell.edu"
 cv_link: /assets/files/CV_YanbangWang_R.pdf
@@ -21,8 +21,7 @@ short_bio: >-
     extremely fortunate to be advised by
     <a href="https://www.cs.cornell.edu/home/kleinber/" target="_blank">Prof. Jon Kleinberg</a>.
     I am currently visiting Stanford Computer Science as an IvyPlus Scholar for the
-    2025&ndash;26 academic year, and I am also affiliated with Google Research as a
-    student researcher.
+    2025&ndash;26 academic year, and I am also a research intern at Google Research.
   </p>
   <p>
     I obtained my M.S. in Computer Science from Stanford University, where I worked with
@@ -52,28 +51,28 @@ education:
 - name: Cornell University
   logo: /assets/images/badges/cornell.png
   dept: Department of Computer Science
-  position: Ph.D. Candidate, advised by Jon Kleinberg
+  position: "Ph.D. Candidate, advised by Jon Kleinberg (GPA 4.2/4.3)"
   date: 2021 - present
 - name: Stanford University
   logo: /assets/images/badges/stanford.png
   dept: Department of Computer Science
-  position: M.S., advised by Jure Leskovec
+  position: "M.S., advised by Jure Leskovec (GPA 4.1/4.3)"
   date: 2019 - 2021
 - name: Hong Kong University of Science and Technology
   logo: /assets/images/badges/hkust.png
   dept: Computer Science & Mathematics
-  position: B.S., Summa Cum Laude
+  position: "B.S., Summa Cum Laude (GPA 4.0/4.3)"
   date: 2015 - 2019
 
 experience:
 - name: Google Research
   logo: /assets/images/badges/google.png
-  position: Student Researcher
+  position: Research Intern
   date: 2025 - 2026
 - name: Meta AI
   logo: /assets/images/badges/meta.png
   position: Research Scientist Intern
-  date: 2024
+  date: 2024, 2025
 - name: Microsoft Research
   logo: /assets/images/badges/microsoft.png
   position: Research Scientist Intern
@@ -86,13 +85,7 @@ experience:
 awards:
 - name: Microsoft Accelerating Foundation Models Research Grant
   date: 2024
-- name: ICLR Student Travel Award
-  date: 2024
-- name: NeurIPS Student Travel Award
-  date: 2023
 - name: Stanford Graduate with Distinction in Research
   date: 2021
 - name: HKUST Academic Achievement Medal (top 1%)
-  date: 2019
-- name: HKUST Outstanding Graduate
   date: 2019

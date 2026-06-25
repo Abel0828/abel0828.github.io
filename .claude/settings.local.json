@@ -18,7 +18,10 @@
       "Bash(pkill -f \"jekyll serve\")",
       "Bash(git add *)",
       "Bash(git commit -q -m ' *)",
-      "Bash(sips -s format png assets/images/badges/meta.png --out assets/images/badges/meta.png)"
+      "Bash(sips -s format png assets/images/badges/meta.png --out assets/images/badges/meta.png)",
+      "Bash(git config *)",
+      "Bash(git push *)",
+      "Bash(gh api *)"
     ]
   }
 }

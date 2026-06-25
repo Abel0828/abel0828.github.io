@@ -2,7 +2,7 @@
 title:          "On the Relationship Between Relevance and Conflict in Online Social Link Recommendations"
 date:           2023-12-10
 selected:       true
-pub:            "Neural Information Processing Systems (NeurIPS)"
+pub:            "Neural Information Processing Systems (<strong>NeurIPS</strong>)"
 pub_date:       "2023"
 abstract: >-
   One of the first rigorous analyses of how link recommendations that boost engagement can also
