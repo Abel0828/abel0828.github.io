@@ -2,6 +2,7 @@
 title:          "Microstructures and Accuracy of Graph Recall by Large Language Models"
 date:           2024-12-10
 selected:       true
+selected_order: 2
 pub:            "Neural Information Processing Systems (<strong>NeurIPS</strong>)"
 pub_date:       "2024"
 abstract: >-

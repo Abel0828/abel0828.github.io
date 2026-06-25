@@ -2,6 +2,7 @@
 title:          "TEDIC: Neural Modeling of Behavioral Patterns in Dynamic Social Interaction Networks"
 date:           2021-04-19
 selected:       true
+selected_order: 7
 pub:            "The Web Conference (<strong>WebConf</strong>)"
 pub_date:       "2021"
 abstract: >-
