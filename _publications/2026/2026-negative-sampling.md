@@ -11,4 +11,6 @@ authors:
 - Yanbang Wang
 - Jon Kleinberg
 - Yanhong Wu
+links:
+  Paper: https://icml.cc/virtual/2026/poster/61482
 ---

@@ -20,4 +20,7 @@ authors:
 - Fatma Ozcan
 - Bryan Perozzi
 - Vahab Mirrokni
+links:
+  Announcement: https://www.linkedin.com/posts/googleresearch_introducing-gemini-sql2-our-breakthrough-activity-7471241516003356672
+  Leaderboard: https://bird-bench.github.io/
 ---

@@ -17,7 +17,8 @@
       "Bash(python -m pip install --quiet pypdf)",
       "Bash(pkill -f \"jekyll serve\")",
       "Bash(git add *)",
-      "Bash(git commit -q -m ' *)"
+      "Bash(git commit -q -m ' *)",
+      "Bash(sips -s format png assets/images/badges/meta.png --out assets/images/badges/meta.png)"
     ]
   }
 }

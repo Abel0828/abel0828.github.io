@@ -4,7 +4,7 @@ navbar_name: "Yanbang Wang"
 
 positions:
 - name: Ph.D. Candidate, Computer Science, Cornell University
-- name: Visiting Student Researcher, Stanford University
+- name: IvyPlus Visiting Scholar, Stanford University
 - name: Student Researcher, Google Research
 
 email: "ywangdr@cs.cornell.edu"
@@ -52,33 +52,47 @@ education:
 - name: Cornell University
   logo: /assets/images/badges/cornell.png
   dept: Department of Computer Science
-  position: Ph.D. Candidate
+  position: Ph.D. Candidate, advised by Jon Kleinberg
   date: 2021 - present
 - name: Stanford University
   logo: /assets/images/badges/stanford.png
   dept: Department of Computer Science
-  position: M.S.
+  position: M.S., advised by Jure Leskovec
   date: 2019 - 2021
 - name: Hong Kong University of Science and Technology
+  logo: /assets/images/badges/hkust.png
   dept: Computer Science & Mathematics
   position: B.S., Summa Cum Laude
   date: 2015 - 2019
 
 experience:
 - name: Google Research
+  logo: /assets/images/badges/google.png
   position: Student Researcher
-  date: 2025 - present
+  date: 2025 - 2026
 - name: Meta AI
+  logo: /assets/images/badges/meta.png
   position: Research Scientist Intern
-  date: 2024, 2025
+  date: 2024
 - name: Microsoft Research
-  position: Research Intern
+  logo: /assets/images/badges/microsoft.png
+  position: Research Scientist Intern
   date: 2023
+- name: MIT CSAIL
+  logo: /assets/images/badges/MIT_Social_circle.png
+  position: Visiting Student Researcher
+  date: 2018
 
 awards:
-- name: IvyPlus Exchange Scholar (Stanford)
-  date: 2025
+- name: Microsoft Accelerating Foundation Models Research Grant
+  date: 2024
+- name: ICLR Student Travel Award
+  date: 2024
+- name: NeurIPS Student Travel Award
+  date: 2023
+- name: Stanford Graduate with Distinction in Research
+  date: 2021
 - name: HKUST Academic Achievement Medal (top 1%)
   date: 2019
-- name: All-semester Dean's List
-  date: 2015 - 2019
+- name: HKUST Outstanding Graduate
+  date: 2019
