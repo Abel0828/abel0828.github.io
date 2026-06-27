@@ -14,3 +14,6 @@ legacy/
 
 # Cornell deploy build output (separate baseurl)
 _site_cornell/
+
+# Local maintenance guide (kept in the repo but not published/committed)
+/README.md
