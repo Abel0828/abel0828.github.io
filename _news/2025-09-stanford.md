@@ -1,4 +1,4 @@
 ---
-title: "I have moved to the Bay Area, starting my year-long visit to Stanford CS for the 2025/26 academic year."
+title: "I have moved to the Bay Area."
 date: 2025-09-01
 ---

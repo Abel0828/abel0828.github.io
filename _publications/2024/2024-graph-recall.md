@@ -1,14 +1,14 @@
 ---
 title:          "Microstructures and Accuracy of Graph Recall by Large Language Models"
-date:           2024-12-10
+date:           2025-12-10
 selected:       true
 selected_order: 2
 pub:            "Neural Information Processing Systems (<strong>NeurIPS</strong>)"
-pub_date:       "2024"
+pub_date:       "2025"
 abstract: >-
-  The first systematic study of how LLMs recall graphs described in text. We find LLMs often
-  underperform and are biased toward microstructures such as triangles and alternating 2-paths,
-  and that stronger models recall better when the graph is narrated in a domain-consistent style.
+  The first systematic study of how LLMs memorizes structural information in text. We find LLMs often
+  underperform and are biased towards certain error patterns,
+  and that stronger models memorizes better when the structures are narrated in a domain-consistent style.
 cover:          /assets/images/covers/graph_recall.png
 authors:
 - Yanbang Wang
