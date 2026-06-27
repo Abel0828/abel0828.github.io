@@ -28,6 +28,7 @@ exclude:
   - legacy
   - _site_cornell
   - README.md
+  - deploy-cornell.sh
   - LICENSE
   - Gemfile
   - Gemfile.lock

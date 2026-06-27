@@ -17,3 +17,6 @@ _site_cornell/
 
 # Local maintenance guide (kept in the repo but not published/committed)
 /README.md
+
+# Cornell deploy script (kept in the repo but not published/committed)
+/deploy-cornell.sh
