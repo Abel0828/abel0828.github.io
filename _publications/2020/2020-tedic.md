@@ -16,7 +16,7 @@ authors:
 - Chongyang Bai
 - Jure Leskovec
 links:
-  Paper: /assets/files/tedic.pdf
+  Paper: https://snap.stanford.edu/tedic/files/www21_tedic.pdf
   Project: http://snap.stanford.edu/tedic/
   Talk: https://www.youtube.com/watch?v=i0uxMh0RBrQ
 ---

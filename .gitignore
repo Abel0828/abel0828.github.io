@@ -11,3 +11,6 @@ Gemfile.lock
 
 # Old website kept locally as reference; not part of the published repo
 legacy/
+
+# Cornell deploy build output (separate baseurl)
+_site_cornell/

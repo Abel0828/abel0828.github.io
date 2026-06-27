@@ -26,6 +26,7 @@ plugins:
 # Exclude from processing (these will not be copied into the built site).
 exclude:
   - legacy
+  - _site_cornell
   - README.md
   - LICENSE
   - Gemfile
