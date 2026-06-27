@@ -74,14 +74,17 @@ experience:
   date: 2025 - 2026
 - name: Meta AI
   logo: /assets/images/badges/meta.png
+  logo_size: 38
   position: Research Scientist Intern
   date: 2024, 2025
 - name: Microsoft Research
   logo: /assets/images/badges/microsoft.png
+  logo_size: 23
   position: Research Scientist Intern
   date: 2023
 - name: MIT CSAIL
   logo: /assets/images/badges/MIT_Social_circle.png
+  logo_size: 23
   position: Visiting Student Researcher
   date: 2018
 
