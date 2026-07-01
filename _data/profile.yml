@@ -31,37 +31,38 @@ short_bio: >-
     (top 1%), from the Hong Kong University of Science and Technology.
   </p>
   <p>
-    My recent research centers on <strong>LLMs for code generation</strong> &mdash; building
+    My recent research centers on <strong>LLMs for Code Generation</strong>, building
     world-leading foundation models and agentic harnesses that top industry-standard coding
-    benchmarks. I created and first-authored
+    benchmarks. At Google, I created and first-authored
     <a href="https://www.linkedin.com/posts/googleresearch_introducing-gemini-sql2-our-breakthrough-activity-7471241516003356672-wxOZ" target="_blank">Gemini-SQL2</a>,
     currently the best LLM for SQL generation in the world. Post-trained from Gemini&nbsp;3.1&nbsp;Pro
     and served in a dedicated agentic harness, it ranks <strong>#1</strong> on the highly competitive,
     industry-standard <a href="https://bird-bench.github.io/" target="_blank">BIRD benchmark</a>,
-    scoring 80.04 on the held-out test set in BIRD&rsquo;s independent evaluation &mdash; a decisive
+    scoring 80.04 on the held-out test set in BIRD&rsquo;s independent evaluation &mdash; a significant
     margin over all competitors, including submissions from OpenAI, Anthropic, and AWS.
   </p>
   <p>
-    More broadly, I study how to reason, retrieve, and generate over <strong>structure-rich text and
+    More broadly, I study how to <strong>reason, retrieve, and generate over structure-rich text and
     context</strong> by explicitly exploiting the underlying structure. Representative directions include:
   </p>
   <ul>
-    <li><strong>Code</strong>, where programming languages carry rich syntactic structure (e.g.,
+    <li><strong>Coding</strong>, where programming languages carry rich syntactic structure (e.g.,
       abstract syntax trees) and code repositories interlink files through intricate cross-references
-      (<a href="https://www.linkedin.com/posts/googleresearch_introducing-gemini-sql2-our-breakthrough-activity-7471241516003356672-wxOZ" target="_blank">Gemini-SQL2</a>,
-      two U.S. patents).</li>
-    <li><strong>Databases</strong>, where data agents must navigate the complex inter-table
+      [<a href="https://www.linkedin.com/posts/googleresearch_introducing-gemini-sql2-our-breakthrough-activity-7471241516003356672-wxOZ" target="_blank">Gemini-SQL2</a>,
+      two U.S. patents].</li>
+    <li><strong>Database</strong>, where data agents must navigate the complex inter-table
       relationships defined by primary&ndash;foreign-key constraints
-      (<a href="https://www.linkedin.com/posts/googleresearch_introducing-gemini-sql2-our-breakthrough-activity-7471241516003356672-wxOZ" target="_blank">Gemini-SQL2</a>,
-      Gemini-SQL, <a href="https://www.vldb.org/pvldb/vol15/p2788-yin.pdf" target="_blank">VLDB&rsquo;22</a>).</li>
-    <li><strong>Knowledge graphs</strong>, where LLMs must faithfully recall and reason over entities
+      [<a href="https://www.linkedin.com/posts/googleresearch_introducing-gemini-sql2-our-breakthrough-activity-7471241516003356672-wxOZ" target="_blank">Gemini-SQL2</a>,
+      <a href="https://cloud.google.com/blog/products/databases/how-to-get-gemini-to-deeply-understand-your-database" target="_blank">Gemini-SQL</a>,
+      <a href="https://www.vldb.org/pvldb/vol15/p2788-yin.pdf" target="_blank">VLDB&rsquo;22</a>].</li>
+    <li><strong>Knowledge graph</strong>, where LLMs must faithfully recall and reason over entities
       and the relations among them as conveyed in natural language
-      (<a href="https://arxiv.org/abs/2402.11821" target="_blank">NeurIPS&rsquo;25</a>, IC2S2&rsquo;24).</li>
-    <li><strong>Recommendation systems</strong>, where modeling the rich structure of user&ndash;item
+      [<a href="https://arxiv.org/abs/2402.11821" target="_blank">NeurIPS&rsquo;25</a>, IC2S2&rsquo;24].</li>
+    <li><strong>Recommender system</strong>, where modeling the rich structure of user&ndash;item
       interaction history is central to nearly every task
-      (<a href="https://icml.cc/virtual/2026/poster/61482" target="_blank">ICML&rsquo;26</a>,
+      [<a href="https://icml.cc/virtual/2026/poster/61482" target="_blank">ICML&rsquo;26</a>,
       <a href="https://arxiv.org/abs/2310.14076" target="_blank">NeurIPS&rsquo;23</a>,
-      <a href="https://arxiv.org/abs/2101.05974" target="_blank">ICLR&rsquo;21</a>).</li>
+      <a href="https://arxiv.org/abs/2101.05974" target="_blank">ICLR&rsquo;21</a>].</li>
   </ul>
   <p>
     My work has drawn broad recognition and global attention: Gemini-SQL2&rsquo;s
@@ -71,7 +72,6 @@ short_bio: >-
     <a href="https://log2025.logconference.org/" target="_blank">Learning on Graphs (LoG) Conference 2025</a>
     and <a href="https://logconference.org/" target="_blank">2026</a>.
   </p>
-  <p>My name is pronounced &ldquo;Yen-bahng Wong&rdquo;.</p>
 
 portrait_url: /assets/images/photos/portrait.png
 
@@ -84,6 +84,7 @@ education:
   date: 2021 - present
 - name: Stanford University
   logo: /assets/images/badges/stanford.png
+  logo_size: 35
   dept: Department of Computer Science
   position: 'M.S., advised by <a href="https://cs.stanford.edu/people/jure/" target="_blank">Jure Leskovec</a>'
   gpa: 4.1/4.3
