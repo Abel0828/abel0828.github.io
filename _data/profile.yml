@@ -31,17 +31,45 @@ short_bio: >-
     (top 1%), from the Hong Kong University of Science and Technology.
   </p>
   <p>
-    My research focuses on improving LLMs' reasoning ability over relation-rich structures,
-    with main topics in graph-language models, text-to-SQL generation (including its
-    foundation models and coding agents), and LLMs for recommendation systems.
+    My recent research centers on <strong>LLMs for code generation</strong> &mdash; building
+    world-leading foundation models and agentic harnesses that top industry-standard coding
+    benchmarks. I created and first-authored
+    <a href="https://www.linkedin.com/posts/googleresearch_introducing-gemini-sql2-our-breakthrough-activity-7471241516003356672-wxOZ" target="_blank">Gemini-SQL2</a>,
+    currently the best LLM for SQL generation in the world. Post-trained from Gemini&nbsp;3.1&nbsp;Pro
+    and served in a dedicated agentic harness, it ranks <strong>#1</strong> on the highly competitive,
+    industry-standard <a href="https://bird-bench.github.io/" target="_blank">BIRD benchmark</a>,
+    scoring 80.04 on the held-out test set in BIRD&rsquo;s independent evaluation &mdash; a decisive
+    margin over all competitors, including submissions from OpenAI, Anthropic, and AWS.
   </p>
   <p>
-    I am serving as a General Chair for the
-    <a href="https://logconference.org/" target="_blank">Learning on Graphs (LoG) Conference</a>
-    2025 and 2026. I visited the
-    <a href="https://alfagroup.csail.mit.edu/" target="_blank">ALFA Group</a> at MIT CSAIL in 2018,
-    and interned at <a href="https://ai.meta.com/" target="_blank">Meta AI</a> in 2024 and 2025 and
-    <a href="https://www.microsoft.com/en-us/research/" target="_blank">Microsoft Research</a> in 2023.
+    More broadly, I study how to reason, retrieve, and generate over <strong>structure-rich text and
+    context</strong> by explicitly exploiting the underlying structure. Representative directions include:
+  </p>
+  <ul>
+    <li><strong>Code</strong>, where programming languages carry rich syntactic structure (e.g.,
+      abstract syntax trees) and code repositories interlink files through intricate cross-references
+      (<a href="https://www.linkedin.com/posts/googleresearch_introducing-gemini-sql2-our-breakthrough-activity-7471241516003356672-wxOZ" target="_blank">Gemini-SQL2</a>,
+      two U.S. patents).</li>
+    <li><strong>Databases</strong>, where data agents must navigate the complex inter-table
+      relationships defined by primary&ndash;foreign-key constraints
+      (<a href="https://www.linkedin.com/posts/googleresearch_introducing-gemini-sql2-our-breakthrough-activity-7471241516003356672-wxOZ" target="_blank">Gemini-SQL2</a>,
+      Gemini-SQL, <a href="https://www.vldb.org/pvldb/vol15/p2788-yin.pdf" target="_blank">VLDB&rsquo;22</a>).</li>
+    <li><strong>Knowledge graphs</strong>, where LLMs must faithfully recall and reason over entities
+      and the relations among them as conveyed in natural language
+      (<a href="https://arxiv.org/abs/2402.11821" target="_blank">NeurIPS&rsquo;25</a>, IC2S2&rsquo;24).</li>
+    <li><strong>Recommendation systems</strong>, where modeling the rich structure of user&ndash;item
+      interaction history is central to nearly every task
+      (<a href="https://icml.cc/virtual/2026/poster/61482" target="_blank">ICML&rsquo;26</a>,
+      <a href="https://arxiv.org/abs/2310.14076" target="_blank">NeurIPS&rsquo;23</a>,
+      <a href="https://arxiv.org/abs/2101.05974" target="_blank">ICLR&rsquo;21</a>).</li>
+  </ul>
+  <p>
+    My work has drawn broad recognition and global attention: Gemini-SQL2&rsquo;s
+    <a href="https://x.com/GoogleResearch/status/2065475343205740911" target="_blank">launch announcement</a>
+    is the single most-liked post from Google Research on X over the past year. I also serve as a
+    General Chair of the
+    <a href="https://log2025.logconference.org/" target="_blank">Learning on Graphs (LoG) Conference 2025</a>
+    and <a href="https://logconference.org/" target="_blank">2026</a>.
   </p>
   <p>My name is pronounced &ldquo;Yen-bahng Wong&rdquo;.</p>
 
