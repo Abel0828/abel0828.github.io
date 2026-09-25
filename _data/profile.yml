@@ -30,13 +30,12 @@ short_bio: >-
     (top 1%), from the Hong Kong University of Science and Technology.
   </p>
   <p>
-    My recent research centers on <strong>LLMs for code generation</strong>, post-training
-    world-leading foundation models and building agentic harnesses that top industry-standard coding
-    benchmarks. At Google, I created and first-authored
+    My recent research focuses on <strong>coding agents, post-training, and RL</strong>. I am the
+    DRI and main creator of
     <a href="https://www.linkedin.com/posts/googleresearch_introducing-gemini-sql2-our-breakthrough-activity-7471241516003356672-wxOZ" target="_blank">Gemini-SQL2</a>,
-    currently the best LLM for SQL generation in the world. Post-trained from Gemini&nbsp;3.1&nbsp;Pro
-    and served in a dedicated agentic harness, Gemini-SQL2 ranks <strong>#1</strong> on the highly competitive,
-    industry-standard <a href="https://bird-bench.github.io/" target="_blank">BIRD benchmark</a>.
+    which currently ranks <strong>#1</strong> on the highly competitive, industry-standard
+    <a href="https://bird-bench.github.io/" target="_blank">BIRD benchmark</a>. I have worked
+    full-stack across the agentic harness, post-training, data collection, and evaluation.
   </p>
   <p>
     More broadly, I study how to <strong>reason, retrieve, and generate over structure-rich text and
