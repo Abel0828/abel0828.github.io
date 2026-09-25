@@ -19,8 +19,7 @@ short_bio: >-
     I am a final-year Ph.D. candidate in Computer Science at
     <a href="https://www.cs.cornell.edu/" target="_blank">Cornell University</a>,
     extremely fortunate to be advised by
-    <a href="https://www.cs.cornell.edu/home/kleinber/" target="_blank">Prof. Jon Kleinberg</a>. My committee members include
-    <a href="https://www.cs.cornell.edu/gomes" target="_blank">Prof. Carla Gomes</a> and <a href="https://www.cs.cornell.edu/~eva/" target="_blank">Prof. Eva Tardos</a>. I am currently visiting Stanford Computer Science as an IvyPlus Scholar for the
+    <a href="https://www.cs.cornell.edu/home/kleinber/" target="_blank">Prof. Jon Kleinberg</a>. I am currently visiting Stanford Computer Science as an IvyPlus Scholar for the
     2025&ndash;26 academic year. I am also affiliated with Google Research as a Student Researcher.
   </p>
   <p>
@@ -37,9 +36,7 @@ short_bio: >-
     <a href="https://www.linkedin.com/posts/googleresearch_introducing-gemini-sql2-our-breakthrough-activity-7471241516003356672-wxOZ" target="_blank">Gemini-SQL2</a>,
     currently the best LLM for SQL generation in the world. Post-trained from Gemini&nbsp;3.1&nbsp;Pro
     and served in a dedicated agentic harness, Gemini-SQL2 ranks <strong>#1</strong> on the highly competitive,
-    industry-standard <a href="https://bird-bench.github.io/" target="_blank">BIRD benchmark</a>,
-    scoring 80.04 on the held-out test set in BIRD&rsquo;s independent evaluation &mdash; a significant
-    margin over all competitors, including submissions from OpenAI, Anthropic, and AWS.
+    industry-standard <a href="https://bird-bench.github.io/" target="_blank">BIRD benchmark</a>.
   </p>
   <p>
     More broadly, I study how to <strong>reason, retrieve, and generate over structure-rich text and
