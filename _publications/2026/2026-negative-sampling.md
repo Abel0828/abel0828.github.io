@@ -1,5 +1,5 @@
 ---
-title:          "Negative Sampling From the Ground Up"
+title:          "Negative Sampling From the Ground Up: A Redesign for Recommendation"
 date:           2026-05-01
 selected:       true
 selected_order: 3
