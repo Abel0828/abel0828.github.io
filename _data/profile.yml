@@ -8,7 +8,7 @@ positions:
 - name: Research Intern, Google Research
 
 email: "ywangdr@cs.cornell.edu"
-cv_link: /assets/files/CV_YanbangWang.pdf
+cv_link: /assets/files/CV_YanbangWang_R.pdf
 gscholar: "https://scholar.google.com/citations?user=Ch3YUgsAAAAJ&hl=en"
 twitter: yanbang_wang
 linkedin: yanbang-wang-aa593713a
@@ -42,22 +42,22 @@ short_bio: >-
     context</strong> by explicitly exploiting the underlying structure. Representative directions include:
   </p>
   <ul>
-    <li><strong>Coding</strong>, where programming languages carry rich syntactic structure (e.g. AST) and code repositories interlink files through intricate cross-references
-      [<a href="https://www.linkedin.com/posts/googleresearch_introducing-gemini-sql2-our-breakthrough-activity-7471241516003356672-wxOZ" target="_blank">Gemini-SQL2</a>,
-      two U.S. patents].</li>
-    <li><strong>Database</strong>, where data agents navigate the complex inter-table
-      relationships defined by primary&ndash;foreign-key constraints
-      [<a href="https://www.linkedin.com/posts/googleresearch_introducing-gemini-sql2-our-breakthrough-activity-7471241516003356672-wxOZ" target="_blank">Gemini-SQL2</a>,
-      <a href="https://cloud.google.com/blog/products/databases/how-to-get-gemini-to-deeply-understand-your-database" target="_blank">Gemini-SQL</a>,
-      <a href="https://www.vldb.org/pvldb/vol15/p2788-yin.pdf" target="_blank">VLDB&rsquo;22</a>].</li>
     <li><strong>Recommendation systems</strong>, where modeling the rich structure of user&ndash;item
       interaction history is central to nearly every task
       [<a href="https://icml.cc/virtual/2026/poster/61482" target="_blank">ICML&rsquo;26</a>,
       <a href="https://arxiv.org/abs/2310.14076" target="_blank">NeurIPS&rsquo;23</a>,
       <a href="https://arxiv.org/abs/2101.05974" target="_blank">ICLR&rsquo;21</a>].</li>
-    <li><strong>Knowledge graph</strong>, where LLMs retrieve and reason over entities
+    <li><strong>Database</strong>, where data agents navigate the complex inter-table
+      relationships defined by primary&ndash;foreign-key constraints
+      [<a href="https://www.linkedin.com/posts/googleresearch_introducing-gemini-sql2-our-breakthrough-activity-7471241516003356672-wxOZ" target="_blank">Gemini-SQL2</a>,
+      <a href="https://cloud.google.com/blog/products/databases/how-to-get-gemini-to-deeply-understand-your-database" target="_blank">Gemini-SQL</a>,
+      <a href="https://www.vldb.org/pvldb/vol15/p2788-yin.pdf" target="_blank">VLDB&rsquo;22</a>].</li>
+    <li><strong>Knowledge Graphs</strong>, where LLMs retrieve and reason over entities
       and the relations in the augmented knowledge context.
       [<a href="https://arxiv.org/abs/2402.11821" target="_blank">NeurIPS&rsquo;24</a>, IC2S2&rsquo;24].</li>
+    <li><strong>Coding</strong>, where programming languages carry rich syntactic structure (e.g. AST) and code repositories interlink files through intricate cross-references
+      [<a href="https://www.linkedin.com/posts/googleresearch_introducing-gemini-sql2-our-breakthrough-activity-7471241516003356672-wxOZ" target="_blank">Gemini-SQL2</a>,
+      two U.S. patents].</li>
   </ul>
   <p>
     My work has drawn broad recognition and global attention: Gemini-SQL2&rsquo;s
