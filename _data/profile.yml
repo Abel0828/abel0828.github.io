@@ -7,7 +7,8 @@ positions:
 - name: IvyPlus Visiting Scholar, Stanford University
 
 email: "ywangdr@cs.cornell.edu"
-cv_link: /assets/files/CV_YanbangWang_R.pdf
+# CV link temporarily hidden; uncomment to restore.
+# cv_link: /assets/files/CV_YanbangWang_R.pdf
 gscholar: "https://scholar.google.com/citations?user=Ch3YUgsAAAAJ&hl=en"
 twitter: yanbang_wang
 linkedin: yanbang-wang-aa593713a
