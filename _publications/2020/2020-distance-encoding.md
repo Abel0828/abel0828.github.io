@@ -1,7 +1,7 @@
 ---
 title:          "Distance Encoding: Design Provably More Powerful Neural Networks for Graph Representation Learning"
 date:           2020-12-06
-selected:       true
+selected:       false
 selected_order: 9
 pub:            "Neural Information Processing Systems (<strong>NeurIPS</strong>)"
 pub_date:       "2020"

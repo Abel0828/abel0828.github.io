@@ -2,7 +2,7 @@
 title:          "Negative Sampling From the Ground Up: A Redesign for Recommendation"
 date:           2026-05-01
 selected:       true
-selected_order: 6
+selected_order: 5
 pub:            "International Conference on Machine Learning (<strong>ICML</strong>)"
 pub_date:       "2026"
 workplace:      Meta AI
