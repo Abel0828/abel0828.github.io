@@ -5,6 +5,8 @@ selected:       true
 selected_order: 6
 pub:            "International Conference on Machine Learning (<strong>ICML</strong>)"
 pub_date:       "2026"
+workplace:      Meta AI
+workplace_style: meta
 cover:          /assets/images/covers/negsamp.png
 abstract: >-
   We revisit negative sampling for recommender systems from first principles and propose a

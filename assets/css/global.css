@@ -91,25 +91,26 @@ div.lazy {
 .publication-workplace {
     display: inline-block;
     max-width: 100%;
-    padding: 0.2rem 0.6rem;
-    border: 1px solid;
-    border-radius: 0.4rem;
-    font-size: 0.8rem;
-    font-weight: 600;
+    padding: 0;
+    border: 0;
+    background: transparent;
+    font-size: 0.75rem;
+    font-weight: 400;
+    font-style: italic;
     line-height: 1.5;
     white-space: normal;
 }
 
 .publication-workplace--microsoft {
-    color: #075985;
-    background-color: #e0f2fe;
-    border-color: #7dd3fc;
+    color: #49687e;
 }
 
 .publication-workplace--google {
-    color: #166534;
-    background-color: #dcfce7;
-    border-color: #86efac;
+    color: #4b6b57;
+}
+
+.publication-workplace--meta {
+    color: #52658a;
 }
 
 .email-text {
