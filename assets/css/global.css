@@ -88,6 +88,30 @@ div.lazy {
     font-size: 100%;
 }
 
+.publication-workplace {
+    display: inline-block;
+    max-width: 100%;
+    padding: 0.2rem 0.6rem;
+    border: 1px solid;
+    border-radius: 0.4rem;
+    font-size: 0.8rem;
+    font-weight: 600;
+    line-height: 1.5;
+    white-space: normal;
+}
+
+.publication-workplace--microsoft {
+    color: #075985;
+    background-color: #e0f2fe;
+    border-color: #7dd3fc;
+}
+
+.publication-workplace--google {
+    color: #166534;
+    background-color: #dcfce7;
+    border-color: #86efac;
+}
+
 .email-text {
     font-family: Source Code Pro, monospace;
 }
