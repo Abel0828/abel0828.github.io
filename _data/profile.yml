@@ -17,24 +17,28 @@ short_bio: >-
   <p>
     I am a final-year Ph.D. candidate in Computer Science at
     <a href="https://www.cs.cornell.edu/" target="_blank">Cornell University</a>,
-    extremely fortunate to be advised by
-    <a href="https://www.cs.cornell.edu/home/kleinber/" target="_blank">Prof. Jon Kleinberg</a>. I am currently visiting Stanford Computer Science as an IvyPlus Scholar for the
-    2025&ndash;26 academic year.
+    advised by <a href="https://www.cs.cornell.edu/home/kleinber/" target="_blank"><strong>Jon Kleinberg</strong></a>,
+    and an IvyPlus Visiting Scholar at Stanford. I am also a Student Researcher at Google Research.
   </p>
   <p>
-    I obtained my M.S. in Computer Science from Stanford University, where I worked with
-    <a href="https://cs.stanford.edu/people/jure/" target="_blank">Prof. Jure Leskovec</a>.
-    I received my B.S. in Computer Science and Mathematics, graduating
-    <a href="https://registry.hkust.edu.hk/academic-achievement-medal" target="_blank">Summa Cum Laude</a>
-    (top 1%), from the Hong Kong University of Science and Technology.
+    <strong>My recent research focuses on post-training and evaluation of frontier models and agents,
+    with a particular interest in understanding and mitigating systematic model and agent failure modes.</strong>
+    I work across the full model-improvement loop&mdash;from failure analysis and data generation to
+    post-training, agentic system design, verification, and evaluation.
   </p>
   <p>
-    My research focuses on <strong>agentic reasoning and coding, post-training &amp; RL, and the societal impact of ML algorithms.</strong> I am the
-    DRI and main creator of
-    <a href="https://www.linkedin.com/posts/googleresearch_introducing-gemini-sql2-our-breakthrough-activity-7471241516003356672-wxOZ" target="_blank">Gemini-SQL2</a>,
-    which currently ranks <strong>#1</strong> on the highly competitive, industry-standard
-    <a href="https://bird-bench.github.io/" target="_blank">BIRD benchmark</a>. I have worked
-    full-stack across the agentic harness, post-training, data collection, and evaluation.
+    I am the DRI and main creator of
+    <a href="https://www.linkedin.com/posts/googleresearch_introducing-gemini-sql2-our-breakthrough-activity-7471241516003356672-wxOZ" target="_blank"><strong>Gemini-SQL2</strong></a>,
+    which I led end-to-end across post-training, data, agentic harness design, and evaluation.
+    Gemini-SQL2 currently ranks <a href="https://bird-bench.github.io/" target="_blank"><strong>#1 on BIRD</strong></a>.
+  </p>
+  <p>
+    More broadly, my recent work also studies <strong>how intelligent systems fail and how to make
+    them more reliable and socially responsible</strong>. I have developed
+    <a href="https://arxiv.org/abs/2402.11821" target="_blank">controlled evaluations uncovering systematic behavioral biases in LLMs</a>,
+    built <a href="https://dl.acm.org/doi/abs/10.1145/3589335.3648325" target="_blank">security monitoring methods over authentication data from 100+ real organizations</a>
+    at Microsoft Research, and studied
+    <a href="https://arxiv.org/abs/2310.14076" target="_blank">unintended consequences of recommendation algorithms on social conflict</a>.
   </p>
 
 # Temporarily hidden. To restore, append this HTML to short_bio above.
