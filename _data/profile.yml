@@ -36,6 +36,9 @@ short_bio: >-
     <a href="https://bird-bench.github.io/" target="_blank">BIRD benchmark</a>. I have worked
     full-stack across the agentic harness, post-training, data collection, and evaluation.
   </p>
+
+# Temporarily hidden. To restore, append this HTML to short_bio above.
+research_details_hidden: >-
   <p>
     More broadly, I study how to <strong>reason, retrieve, and generate over structure-rich text and
     context</strong> by explicitly exploiting the underlying structure. Representative directions include:

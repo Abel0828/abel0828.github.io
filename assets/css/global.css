@@ -95,22 +95,22 @@ div.lazy {
     border: 0;
     background: transparent;
     font-size: 0.75rem;
-    font-weight: 400;
+    font-weight: 600;
     font-style: italic;
     line-height: 1.5;
     white-space: normal;
 }
 
 .publication-workplace--microsoft {
-    color: #49687e;
+    color: #0067b8;
 }
 
 .publication-workplace--google {
-    color: #4b6b57;
+    color: #188038;
 }
 
 .publication-workplace--meta {
-    color: #52658a;
+    color: #0866cc;
 }
 
 .email-text {
