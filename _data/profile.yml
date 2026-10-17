@@ -29,17 +29,19 @@ short_bio: >-
   </p>
   <p>
     I am the DRI and main creator of
-    <a href="https://www.linkedin.com/posts/googleresearch_introducing-gemini-sql2-our-breakthrough-activity-7471241516003356672-wxOZ" target="_blank"><strong>Gemini-SQL2</strong></a>,
+    <a href="https://www.linkedin.com/posts/googleresearch_introducing-gemini-sql2-our-breakthrough-activity-7471241516003356672-wxOZ" target="_blank">Gemini-SQL2</a>,
     which I led end-to-end across post-training, data, agentic harness design, and evaluation.
-    Gemini-SQL2 currently ranks <a href="https://bird-bench.github.io/" target="_blank"><strong>#1 on BIRD</strong></a>.
+    Gemini-SQL2 currently ranks <a href="https://bird-bench.github.io/" target="_blank">#1 on BIRD</a>.
   </p>
   <p>
-    More broadly, my recent work also studies <strong>how intelligent systems fail and how to make
-    them more reliable and socially responsible</strong>. I have developed
-    <a href="https://arxiv.org/abs/2402.11821" target="_blank">controlled evaluations uncovering systematic behavioral biases in LLMs</a>,
-    built <a href="https://dl.acm.org/doi/abs/10.1145/3589335.3648325" target="_blank">security monitoring methods over authentication data from 100+ real organizations</a>
-    at Microsoft Research, and studied
-    <a href="https://arxiv.org/abs/2310.14076" target="_blank">unintended consequences of recommendation algorithms on social conflict</a>.
+    More broadly, my recent work also studies how intelligent systems fail and how to make
+    them more reliable and socially responsible. I have developed
+    controlled evaluations uncovering systematic behavioral biases in LLMs
+    [<a href="https://arxiv.org/abs/2402.11821" target="_blank">NeurIPS&rsquo;24</a>],
+    built security monitoring methods over authentication data from 100+ real organizations
+    at Microsoft Research [<a href="https://dl.acm.org/doi/abs/10.1145/3589335.3648325" target="_blank">WebConf&rsquo;23</a>],
+    and studied unintended consequences of recommendation algorithms on social conflict
+    [<a href="https://arxiv.org/abs/2310.14076" target="_blank">NeurIPS&rsquo;23</a>].
   </p>
 
 # Temporarily hidden. To restore, append this HTML to short_bio above.
