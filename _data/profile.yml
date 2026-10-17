@@ -31,7 +31,7 @@ short_bio: >-
     I am the DRI and main creator of
     <a href="https://www.linkedin.com/posts/googleresearch_introducing-gemini-sql2-our-breakthrough-activity-7471241516003356672-wxOZ" target="_blank">Gemini-SQL2</a>,
     which I led end-to-end across post-training, data, agentic harness design, and evaluation.
-    Gemini-SQL2 currently ranks <a href="https://bird-bench.github.io/" target="_blank">#1 on BIRD</a>.
+    Gemini-SQL2 currently ranks <a href="https://bird-bench.github.io/" target="_blank">#1 on BIRD</a> Bench (single model track).
     More broadly, my recent work also studies how intelligent systems fail and how to make
     them more reliable and socially responsible. I have developed
     controlled evaluations uncovering systematic behavioral biases in LLMs
