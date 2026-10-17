@@ -5,7 +5,6 @@ navbar_name: "Yanbang Wang"
 positions:
 - name: Ph.D. Candidate, Computer Science, Cornell University
 - name: IvyPlus Visiting Scholar, Stanford University
-- name: Research Intern, Google Research
 
 email: "ywangdr@cs.cornell.edu"
 cv_link: /assets/files/CV_YanbangWang_R.pdf
@@ -20,7 +19,7 @@ short_bio: >-
     <a href="https://www.cs.cornell.edu/" target="_blank">Cornell University</a>,
     extremely fortunate to be advised by
     <a href="https://www.cs.cornell.edu/home/kleinber/" target="_blank">Prof. Jon Kleinberg</a>. I am currently visiting Stanford Computer Science as an IvyPlus Scholar for the
-    2025&ndash;26 academic year. I am also affiliated with Google Research as a Student Researcher.
+    2025&ndash;26 academic year.
   </p>
   <p>
     I obtained my M.S. in Computer Science from Stanford University, where I worked with
@@ -30,7 +29,7 @@ short_bio: >-
     (top 1%), from the Hong Kong University of Science and Technology.
   </p>
   <p>
-    My recent research focuses on <strong>agentic reasoning and coding, information retrieval, and post-training &amp; RL</strong>. I am the
+    My research focuses on <strong>agentic reasoning and coding, post-training &amp; RL, and the societal impact of ML algorithms.</strong> I am the
     DRI and main creator of
     <a href="https://www.linkedin.com/posts/googleresearch_introducing-gemini-sql2-our-breakthrough-activity-7471241516003356672-wxOZ" target="_blank">Gemini-SQL2</a>,
     which currently ranks <strong>#1</strong> on the highly competitive, industry-standard
