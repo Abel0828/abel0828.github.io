@@ -23,8 +23,8 @@ short_bio: >-
   </p>
   <p>
     My recent research focuses on <strong>post-training and evaluation of frontier models and agents</strong>,
-    with a particular interest in understanding and mitigating systematic model and agent failure modes.
-    I work across the full model-improvement loop&mdash;from failure analysis and data generation to
+    with a particular interest in understanding and mitigating systematic model, agent failure modes, and their societal impact.
+    I work across the full model-improvement loop - from failure analysis and data generation to
     post-training, agentic system design, verification, and evaluation.
   </p>
   <p>
