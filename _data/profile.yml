@@ -22,8 +22,8 @@ short_bio: >-
     and an IvyPlus Visiting Scholar at Stanford. I am also a Student Researcher at Google Research.
   </p>
   <p>
-    <strong>My recent research focuses on post-training and evaluation of frontier models and agents,
-    with a particular interest in understanding and mitigating systematic model and agent failure modes.</strong>
+    My recent research focuses on <strong>post-training and evaluation of frontier models and agents</strong>,
+    with a particular interest in understanding and mitigating systematic model and agent failure modes.
     I work across the full model-improvement loop&mdash;from failure analysis and data generation to
     post-training, agentic system design, verification, and evaluation.
   </p>
@@ -32,8 +32,6 @@ short_bio: >-
     <a href="https://www.linkedin.com/posts/googleresearch_introducing-gemini-sql2-our-breakthrough-activity-7471241516003356672-wxOZ" target="_blank">Gemini-SQL2</a>,
     which I led end-to-end across post-training, data, agentic harness design, and evaluation.
     Gemini-SQL2 currently ranks <a href="https://bird-bench.github.io/" target="_blank">#1 on BIRD</a>.
-  </p>
-  <p>
     More broadly, my recent work also studies how intelligent systems fail and how to make
     them more reliable and socially responsible. I have developed
     controlled evaluations uncovering systematic behavioral biases in LLMs
