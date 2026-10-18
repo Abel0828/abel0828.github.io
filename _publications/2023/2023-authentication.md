@@ -3,6 +3,9 @@ title:          "A Graph-based Framework for Reducing False Positives in Authent
 date:           2023-04-30
 selected:       true
 selected_order: 3
+topics:
+  - Anomaly detection
+  - Network Security
 pub:            "The Web Conference (<strong>WebConf</strong>)"
 pub_date:       "2023"
 workplace:      Microsoft Security Research

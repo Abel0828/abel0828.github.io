@@ -3,6 +3,10 @@ title:          "Gemini-SQL2: Model, Harness, and System Design"
 date:           2026-06-01
 selected:       true
 selected_order: 1
+topics:
+  - Post-training
+  - Agentic systems
+  - Evaluation
 pub:            "Preprint (under review)"
 pub_date:       "2026"
 workplace:      Google Research

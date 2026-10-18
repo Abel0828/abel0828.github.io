@@ -1,0 +1,5 @@
+{% if include.topics and include.topics.size > 0 %}
+<p class="publication-topics mt-0 mb-1">
+    {% for topic in include.topics %}<strong>{{ topic | escape }}</strong>{% unless forloop.last %}<span class="publication-topic-separator"> &middot; </span>{% endunless %}{% endfor %}
+</p>
+{% endif %}
