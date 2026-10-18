@@ -24,7 +24,7 @@ short_bio: >-
     <a href="https://cs.stanford.edu/people/jure/" target="_blank">Prof. Jure Leskovec</a>.
   </p>
   <p>
-    I research post-training, RL, and evaluation of frontier models and agents, with a focus in defining,
+    I research post-training, RL, and evaluation of frontier models and agents, with a focus on characterizing,
     understanding, and mitigating the systematic biases, failure modes, and negative societal impacts of deep learning models.
     I work across the full model-improvement loop - from failure analysis and data generation to
     post-training, agentic system design, verification, and evaluation.
