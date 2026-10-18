@@ -24,8 +24,8 @@ short_bio: >-
     <a href="https://cs.stanford.edu/people/jure/" target="_blank">Prof. Jure Leskovec</a>.
   </p>
   <p>
-    My recent research focuses on <strong>post-training and evaluation of frontier models and agents</strong>,
-    with interest in understanding and mitigating systematic model, agent failure modes, and their societal impact.
+    My research focuses on <strong>post-training and evaluation of frontier models and agents</strong>,
+    with interest in <strong>understanding and mitigating systematic model, agent failure modes and biases, and their societal impact</strong>.
     I work across the full model-improvement loop - from failure analysis and data generation to
     post-training, agentic system design, verification, and evaluation.
   </p>
@@ -34,7 +34,7 @@ short_bio: >-
     <a href="https://www.linkedin.com/posts/googleresearch_introducing-gemini-sql2-our-breakthrough-activity-7471241516003356672-wxOZ" target="_blank">Gemini-SQL2</a>,
     which I led end-to-end across post-training, data, agentic harness design, and evaluation.
     Gemini-SQL2 currently ranks <a href="https://bird-bench.github.io/" target="_blank">#1 on BIRD</a> Bench (single model track).
-    More broadly, my recent work also studies how intelligent systems fail and how to make
+    More broadly, I study how intelligent systems fail and how to make
     them more reliable and socially responsible. I have developed
     controlled evaluations uncovering systematic behavioral biases in LLMs
     [<a href="https://arxiv.org/abs/2402.11821" target="_blank">NeurIPS&rsquo;24</a>],
