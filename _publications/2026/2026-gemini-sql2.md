@@ -4,7 +4,7 @@ date:           2026-06-01
 selected:       true
 selected_order: 1
 topics:
-  - Post-training
+  - Post-training & RL
   - Agentic systems
   - Evaluation
 pub:            "Preprint (under review)"
