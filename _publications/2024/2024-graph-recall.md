@@ -4,9 +4,9 @@ date:           2025-12-10
 selected:       true
 selected_order: 2
 topics:
-  - Model behavior
   - Systematic biases
   - Behavioral interpretability
+  - Failure modes
 pub:            "Neural Information Processing Systems (<strong>NeurIPS</strong>)"
 pub_date:       "2025"
 abstract: >-
