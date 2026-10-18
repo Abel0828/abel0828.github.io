@@ -4,8 +4,8 @@ date:           2026-05-01
 selected:       true
 selected_order: 5
 topics:
-  - Data quality
   - Bias correction
+  - Data quality
   - Training distributions
 pub:            "International Conference on Machine Learning (<strong>ICML</strong>)"
 pub_date:       "2026"
