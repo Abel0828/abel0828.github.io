@@ -102,19 +102,24 @@ div.lazy {
 }
 
 .publication-topics {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.3rem 0.4rem;
+    padding: 0.15rem 0 0.2rem;
     font-size: 0.75rem;
     line-height: 1.6;
-    color: #495057;
-    overflow-wrap: anywhere;
 }
 
-.publication-topics strong {
+.publication-topic {
+    display: inline-block;
+    max-width: 100%;
+    padding: 0.12rem 0.6rem;
+    border: 1px solid #d6e2f0;
+    border-radius: 999px;
+    background-color: #f0f5fb;
+    color: #355779;
     font-weight: 600;
-}
-
-.publication-topic-separator {
-    padding: 0 0.15rem;
-    color: #6c757d;
+    overflow-wrap: anywhere;
 }
 
 .publication-workplace--microsoft {
