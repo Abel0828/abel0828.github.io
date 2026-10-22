@@ -1,8 +1,8 @@
 ---
-title:          "Negative Sampling From the Ground Up: A Redesign for Recommendation"
+title:          "Negative Sampling From the Ground Up"
 date:           2026-05-01
 selected:       true
-selected_order: 5
+selected_order: 3
 topics:
   - Bias correction
   - Data quality
