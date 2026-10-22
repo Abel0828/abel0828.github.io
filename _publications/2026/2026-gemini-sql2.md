@@ -3,14 +3,8 @@ title:          "Gemini-SQL2: Model, Harness, and System Design"
 date:           2026-06-01
 selected:       true
 selected_order: 1
-topics:
-  - Post-training & RL
-  - Agentic systems
-  - Evaluation
 pub:            "Preprint (under review)"
 pub_date:       "2026"
-workplace:      Google Research
-workplace_style: google
 cover:          /assets/images/covers/geminisql2.png
 abstract: >-
   Gemini-SQL2 is currently the best coding LLM for text-to-SQL in the world. Gemini-SQL2 is Gemini 3.1 Pro post-trained and serves in a dedicated agentic

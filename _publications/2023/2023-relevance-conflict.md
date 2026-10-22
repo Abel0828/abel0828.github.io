@@ -3,10 +3,6 @@ title:          "On the Relationship Between Relevance and Conflict in Online So
 date:           2023-12-10
 selected:       true
 selected_order: 5
-topics:
-  - Echo Chambers
-  - Metrics
-  - Societal Impacts
 pub:            "Neural Information Processing Systems (<strong>NeurIPS</strong>)"
 pub_date:       "2023"
 abstract: >-

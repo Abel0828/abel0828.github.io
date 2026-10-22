@@ -1,8 +1,8 @@
 ---
 title:          "From Graphs to Hypergraphs: Hypergraph Projection and its Reconstruction"
 date:           2024-05-07
-selected:       false
-selected_order: 8
+selected:       true
+selected_order: 6
 pub:            "International Conference on Learning Representations (<strong>ICLR</strong>)"
 pub_date:       "2024"
 abstract: >-

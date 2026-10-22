@@ -88,52 +88,6 @@ div.lazy {
     font-size: 100%;
 }
 
-.publication-workplace {
-    display: inline-block;
-    max-width: 100%;
-    padding: 0;
-    border: 0;
-    background: transparent;
-    font-size: 0.75rem;
-    font-weight: 600;
-    font-style: italic;
-    line-height: 1.5;
-    white-space: normal;
-}
-
-.publication-topics {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.3rem 0.4rem;
-    padding: 0.15rem 0 0.2rem;
-    font-size: 0.75rem;
-    line-height: 1.6;
-}
-
-.publication-topic {
-    display: inline-block;
-    max-width: 100%;
-    padding: 0.12rem 0.6rem;
-    border: 1px solid #d6e2f0;
-    border-radius: 999px;
-    background-color: #f0f5fb;
-    color: #355779;
-    font-weight: 600;
-    overflow-wrap: anywhere;
-}
-
-.publication-workplace--microsoft {
-    color: #c62828;
-}
-
-.publication-workplace--google {
-    color: #c62828;
-}
-
-.publication-workplace--meta {
-    color: #c62828;
-}
-
 .email-text {
     font-family: Source Code Pro, monospace;
 }
