@@ -18,31 +18,54 @@ short_bio: >-
   <p>
     I am a final-year Ph.D. candidate in Computer Science at
     <a href="https://www.cs.cornell.edu/" target="_blank">Cornell University</a>,
-    advised by <a href="https://www.cs.cornell.edu/home/kleinber/" target="_blank">Jon Kleinberg</a>,
-    and an IvyPlus Visiting Scholar at Stanford. I am also a Student Researcher at Google Research.
+    extremely fortunate to be advised by
+    <a href="https://www.cs.cornell.edu/home/kleinber/" target="_blank">Prof. Jon Kleinberg</a>. I am currently visiting Stanford Computer Science as an IvyPlus Scholar for the
+    2025&ndash;26 academic year. I am also affiliated with Google Research as a Student Researcher.
+  </p>
+  <p>
     I obtained my M.S. in Computer Science from Stanford University, where I worked with
     <a href="https://cs.stanford.edu/people/jure/" target="_blank">Prof. Jure Leskovec</a>.
-    I have interned at Google Research, Meta, and Microsoft Security Research.
+    I received my B.S. in Computer Science and Mathematics, graduating
+    <a href="https://registry.hkust.edu.hk/academic-achievement-medal" target="_blank">Summa Cum Laude</a>
+    (top 1%), from the Hong Kong University of Science and Technology.
   </p>
   <p>
-    I research post-training, RL, and evaluation of frontier models and agents, with a focus on characterizing,
-    understanding, and mitigating the systematic biases, failure modes, and negative societal impacts of deep learning models.
-    I work across the full model-improvement loop - from failure analysis and data generation to
-    post-training, agentic system design, verification, and evaluation.
-  </p>
-  <p>
-    I am the DRI and main creator of
+    My recent research focuses on <strong>agentic reasoning and coding, information retrieval, and post-training &amp; RL</strong>. I am the
+    DRI and main creator of
     <a href="https://www.linkedin.com/posts/googleresearch_introducing-gemini-sql2-our-breakthrough-activity-7471241516003356672-wxOZ" target="_blank">Gemini-SQL2</a>,
-    which I led end-to-end across post-training, data, agentic harness design, and evaluation.
-    Gemini-SQL2 currently ranks <a href="https://bird-bench.github.io/" target="_blank">#1 on BIRD</a> Bench (single model track).
-    More broadly, I study how intelligent systems fail and how to make
-    them more reliable and socially responsible. I have developed
-    controlled evaluations uncovering systematic behavioral biases in LLMs
-    [<a href="https://arxiv.org/abs/2402.11821" target="_blank">NeurIPS&rsquo;24</a>],
-    built security monitoring methods over authentication data from 100+ real organizations
-    at Microsoft Security Research [<a href="https://dl.acm.org/doi/abs/10.1145/3589335.3648325" target="_blank">WebConf&rsquo;23</a>],
-    and studied unintended consequences of recommendation algorithms on social conflict
-    [<a href="https://arxiv.org/abs/2310.14076" target="_blank">NeurIPS&rsquo;23</a>].
+    which currently ranks <strong>#1</strong> on the highly competitive, industry-standard
+    <a href="https://bird-bench.github.io/" target="_blank">BIRD benchmark</a>. I have worked
+    full-stack across the agentic harness, post-training, data collection, and evaluation.
+  </p>
+  <p>
+    More broadly, I study how to <strong>reason, retrieve, and generate over structure-rich text and
+    context</strong> by explicitly exploiting the underlying structure. Representative directions include:
+  </p>
+  <ul>
+    <li><strong>Recommendation systems</strong>, where modeling the rich structure of user&ndash;item
+      interaction history is central to nearly every task
+      [<a href="https://icml.cc/virtual/2026/poster/61482" target="_blank">ICML&rsquo;26</a>,
+      <a href="https://arxiv.org/abs/2310.14076" target="_blank">NeurIPS&rsquo;23</a>,
+      <a href="https://arxiv.org/abs/2101.05974" target="_blank">ICLR&rsquo;21</a>].</li>
+    <li><strong>Database</strong>, where data agents navigate the complex inter-table
+      relationships defined by primary&ndash;foreign-key constraints
+      [<a href="https://www.linkedin.com/posts/googleresearch_introducing-gemini-sql2-our-breakthrough-activity-7471241516003356672-wxOZ" target="_blank">Gemini-SQL2</a>,
+      <a href="https://cloud.google.com/blog/products/databases/how-to-get-gemini-to-deeply-understand-your-database" target="_blank">Gemini-SQL</a>,
+      <a href="https://www.vldb.org/pvldb/vol15/p2788-yin.pdf" target="_blank">VLDB&rsquo;22</a>].</li>
+    <li><strong>Knowledge Graphs</strong>, where LLMs retrieve and reason over entities
+      and the relations in the augmented knowledge context.
+      [<a href="https://arxiv.org/abs/2402.11821" target="_blank">NeurIPS&rsquo;24</a>, IC2S2&rsquo;24].</li>
+    <li><strong>Coding</strong>, where programming languages carry rich syntactic structure (e.g. AST) and code repositories interlink files through intricate cross-references
+      [<a href="https://www.linkedin.com/posts/googleresearch_introducing-gemini-sql2-our-breakthrough-activity-7471241516003356672-wxOZ" target="_blank">Gemini-SQL2</a>,
+      two U.S. patents].</li>
+  </ul>
+  <p>
+    My work has drawn broad recognition and global attention: Gemini-SQL2&rsquo;s
+    <a href="https://x.com/GoogleResearch/status/2065475343205740911" target="_blank">launch announcement</a>
+    is the single most-liked post from Google Research on X over the past year. I also serve as a
+    General Chair of the
+    <a href="https://log2025.logconference.org/" target="_blank">Learning on Graphs (LoG) Conference 2025</a>
+    and <a href="https://logconference.org/" target="_blank">2026</a>.
   </p>
 
 # Temporarily hidden. To restore, append this HTML to short_bio above.
